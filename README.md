@@ -5,4 +5,4 @@ This is the implementation of construction of DAG of the trace set as given in t
 This implementation can be used for efficiently analysing wait in Distributed systems.
 
 The DAG example
-![DAG example(https://github.com/Vedank99/Trace-Analysis/DAG.jpg "DAG Example")
+![DAG example](https://github.com/Vedank99/Trace-Analysis/blob/main/DAG.jpg "DAG Example")
